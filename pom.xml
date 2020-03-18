@@ -23,6 +23,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
+                                        <!-- 替换为你自己的类 -->
                                         com.sanjin.jenkins.demo.Main
                                     </mainClass>
                                 </manifest>
